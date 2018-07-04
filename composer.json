@@ -1,5 +1,5 @@
 {
-    "name": "alchemy/binary-driver",
+    "name": "ipanpapan/binary-driver",
     "type": "library",
     "description": "A set of tools to build binary drivers",
     "keywords": ["binary", "driver"],
